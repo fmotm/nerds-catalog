@@ -5,13 +5,14 @@
     padding-top: 84px;
   }
 
-.navigation {
+.nav {
   float: right;
   list-style:none;
   color: #000000;
 }
 .container {
-  width: 1440px;  
+  width: 1440px;
+  margin  
 }
 .filter {
     margin-left: 260px;
