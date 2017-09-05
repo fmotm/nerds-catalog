@@ -9,6 +9,7 @@
   float: right;
   list-style:none;
   color: #000000;
+  display: inline-block;
 }
 .container {
   width: 1440px;
@@ -16,4 +17,9 @@
 }
 .filter {
     margin-left: 260px;
+}
+.paginator li {
+	text-transform: uppercase;
+	display: inline-block;
+	list-style-type: none;
 }
